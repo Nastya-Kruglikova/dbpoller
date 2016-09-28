@@ -1,0 +1,6 @@
+{
+    "db_password" : "postgres",
+    "db_user" : "nastya",
+    "db_name" : "test",
+    "duration" : 500
+}
